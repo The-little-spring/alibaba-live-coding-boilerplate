@@ -1,0 +1,18 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.app {
+  background-color: rgba(211, 206, 206, 0.459);
+  width: 50%;
+  height: fit-content;
+  margin: 0 auto;
+  padding: 2rem;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
